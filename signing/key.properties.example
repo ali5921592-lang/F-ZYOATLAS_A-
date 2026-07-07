@@ -1,0 +1,8 @@
+# Bu dosyayı `flutter create .` çalıştırdıktan SONRA
+# android/key.properties olarak kopyalayın ve gerçek değerlerle doldurun.
+# android/key.properties zaten .gitignore'da olduğu için commit'lenmez.
+
+storePassword=KEYSTORE_SIFRENIZ
+keyPassword=KEY_SIFRENIZ
+keyAlias=upload
+storeFile=release-keystore.jks
